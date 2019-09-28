@@ -1,5 +1,3 @@
-||mp.weixin.qq.com/mp/advertisement^
-||mp.weixin.qq.com/mp/getappmsgad^
 ||api.ad.xiaomi.com^$important
 ||m.track.ad.xiaomi.com^$important
 ||m.track.ad.xiaomi.com.lan^$important
@@ -12,8 +10,6 @@
 ||*.a.market.xiaomi.com.lan^$important
 ||ts.market.mi-img.com^$important
 ||sdkconfig.ad.xiaomi.com^$important
-||b*.market.xiaomi.com^$important
-||b*.market.xiaomi.com.lan^$important
 ||adv.sec.miui.com^$important
 ||news.browser.miui.com^$important
 ||hot.browser.miui.com^$important
@@ -26,24 +22,6 @@
 ||ada.baidu.com^$important
 ||fclick.baidu.com^$important
 ||suggestion.baidu.com^$important
-||t1.baidu.com^$important
-||t1.baidu.com.lan^$important
-||t2.baidu.com^$important
-||t2.baidu.com.lan^$important
-||t3.baidu.com^$important
-||t3.baidu.com.lan^$important
-||t4.baidu.com^$important
-||t4.baidu.com.lan^$important
-||t9.baidu.com^$important
-||t9.baidu.com.lan^$important
-||t8.baidu.com^$important
-||t8.baidu.com.lan^$important
-||t7.baidu.com^$important
-||t7.baidu.com.lan^$important
-||t6.baidu.com^$important
-||t6.baidu.com.lan^$important
-||t5.baidu.com^$important
-||t5.baidu.com.lan^$important
 ||aod-image.baidu.com.lan^$important
 ||sp*.baidu.com.lan^$important
 ||wenda5242.baidu.com^$important
@@ -67,7 +45,6 @@
 ||nourl.ubs.baidu.com.lan^$important
 ||feed.baidu.com.lan^$important
 ||hpd.baidu.com^$important
-||wappass.baidu.com.lan^$important
 ||udpolimenew.baidu.com^$important
 ||cnzz.mmstat.com^$important
 ||*.cnzz.com^$important
@@ -172,3 +149,7 @@
 ||tools.3g.qq.com.lan^$important
 ||mazu.3g.qq.com.lan^$important
 ||adashx.m.taobao.com.lan^$important
+||video.market.xiaomi.com.lan^$important
+||resolver.msg.xiaomi.net.lan^$important
+||splashqqlive.gtimg.com^$important
+||splashqqlive.gtimg.com.lan^$important
