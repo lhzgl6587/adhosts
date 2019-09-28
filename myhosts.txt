@@ -116,10 +116,6 @@
 ||mobilead.kuwo.cn^$important
 ||interface.music.163.com/eapi/ad
 ||v.admaster.com.cn^$important
-||st.360buyimg.com^$important
-||img14.360buyimg.com^important
-||storage.360buyimg.com^important
-||m.360buyimg.com^$important
 ||adashbc.m.taobao.com^$important
 ||g.pps.tv^$important
 ||ads.icloseli.cn^$important
