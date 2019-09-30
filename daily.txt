@@ -4762,7 +4762,6 @@
 ||tool.btrabbit.la^$important
 ||toutiao.jxnews.com.cn^$important
 ||tqd.ntpddq.com^$important
-||trafficfactory.biz^$important
 ||ts.hivecn.cn^$important
 ||tt.shxinjie.cn^$important
 ||tt.twzui6.com^$important
@@ -7589,7 +7588,6 @@
 ||q.s.cr-nielsen.com^$important
 ||s.cr-nielsen.com^$important
 ||t.cr-nielsen.com^$important
-||settings.crashlytics.com^$important
 ||cas.criteo.com^$important
 ||dis.criteo.com^$important
 ||dis.us.criteo.com^$important
