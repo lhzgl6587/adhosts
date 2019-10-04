@@ -90,3 +90,4 @@
 ||splashqqlive.gtimg.com^$important
 ||oc.umeng.co^$important
 ||ctldl.windowsupdate.com^$important
+||sms.ads.oppomobile.com^$important
