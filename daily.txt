@@ -1052,7 +1052,6 @@
 ||zeus.ad.xiaomi.com^$important
 ||a.stat.xiaomi.com^$important
 ||abtest.mistat.xiaomi.com^$important
-||data.mistat.xiaomi.com^$important
 ||storeconfig.mistat.xiaomi.com^$important
 ||r.browser.miui.com^$important
 ||etl.xlmc.sandai.net^$important
