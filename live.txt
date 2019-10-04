@@ -1425,10 +1425,5 @@
 ||ulogs.umeng.com^$important
 ||plbslog.umeng.com^$important
 ||ulogs.umengcloud.com^$important
-@@||wappass.baidu.com^$important
-@@||wappass.baidu.com.lan^$important
 @@||rpc-php.trafficfactory.biz^$important
-@@||rpc-php.trafficfactory.biz.lan^$important
 @@||cdnegc.trafficfactory.biz^$important
-@@||cdnegc.trafficfactory.biz.lan^$important
-@@||data.mistat.xiaomi.com^$important
