@@ -23,7 +23,6 @@
 ||*.umeng.com^$important
 ||ufosdk.baidu.com^$important
 ||feed.baidu.com^$important
-||wappass.baidu.com^$important
 ||*.umengcloud.com^$important
 ||nourl.ubs.baidu.com^$important
 ||hpd.baidu.com^$important
