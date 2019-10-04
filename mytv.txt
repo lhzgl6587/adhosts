@@ -13,7 +13,7 @@
 ||als.baidu.com^$important
 ||hm.baidu.com^$important
 ||aod-image.baidu.com^$important
-||sp*.baidu.com^$important
+||sp1.baidu.com^$important
 ||ada.baidu.com^$important
 ||fclick.baidu.com^$important
 ||suggestion.baidu.com^$important
@@ -88,6 +88,6 @@
 ||3108.lightapp.baidu.com^$important
 ||yun.qqjyo.com^$important
 ||splashqqlive.gtimg.com^$important
-||oc.umeng.co^$important
+||*.umeng.co^$important
 ||ctldl.windowsupdate.com^$important
 ||sms.ads.oppomobile.com^$important
