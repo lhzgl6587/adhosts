@@ -49,9 +49,7 @@
 ||gsp0.baidu.com^$important
 ||cpro.baidustatic.com^$important
 ||m.irs01.com.lan^$important
-||t*.market.xiaomi.com^$important
 ||im-x.jd.com^$important
-||f*.market.mi-img.com^$important
 ||adashbc.ut.taobao.com^$important
 ||ad.taipan.fja.bcs.ottcn.com^$important
 ||api-ad.taojiji.com^$important
@@ -90,3 +88,5 @@
 ||3108.lightapp.baidu.com^$important
 ||yun.qqjyo.com^$important
 ||splashqqlive.gtimg.com^$important
+||oc.umeng.co^$important
+||ctldl.windowsupdate.com^$important
