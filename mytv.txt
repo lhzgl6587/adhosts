@@ -183,3 +183,14 @@
 127.0.0.1 www.8052657.com
 127.0.0.1 track.crumobiapps.com
 ||ad.12306.cn^$important
+||ipm.atm.youku.com^$important
+||vv.video.qq.com^$important
+||cod.southmoney.com^$important
+||icn.southmoney.com^$important
+||www.5596c7.com^$important
+||aiseet.atianqi.com^$important
+||http://f2.market.xiaomi.com/download/AdCenter/
+||ems.cp31.ott.cibntv.net^$important
+||vali.cp31.ott.cibntv.net.302.myalicdn.com^$important
+||accscdn.cp12.ott.cibntv.net^$important
+||topapi.cp12.ott.cibntv.net^$important
