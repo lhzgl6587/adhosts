@@ -9336,16 +9336,6 @@
 ||cdn.ad.xiaomi.com^$important
 ||e.ad.xiaomi.com^$important
 ||log.ad.xiaomi.com^$important
-||sdkconfig.ad.intl.xiaomi.com^$important
-||sdkconfig.ad.xiaomi.com^$important
-||ssp.ad.xiaomi.com^$important
-||test.ad.xiaomi.com^$important
-||test.e.ad.xiaomi.com^$important
-||test.zeus.ad.xiaomi.com^$important
-||zeus.ad.xiaomi.com^$important
-||a.stat.xiaomi.com^$important
-||abtest.mistat.xiaomi.com^$important
-||data.mistat.xiaomi.com^$important
 ||storeconfig.mistat.xiaomi.com^$important
 ||r.browser.miui.com^$important
 ||etl.xlmc.sandai.net^$important
